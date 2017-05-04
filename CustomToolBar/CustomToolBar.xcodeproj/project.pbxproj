@@ -681,6 +681,7 @@
 				F9A794991EBAF93F00D3FF08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9A7949A1EBAF93F00D3FF08 /* Build configuration list for PBXNativeTarget "CustomToolBarTests" */ = {
 			isa = XCConfigurationList;
@@ -689,6 +690,7 @@
 				F9A7949C1EBAF93F00D3FF08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9A7949D1EBAF93F00D3FF08 /* Build configuration list for PBXNativeTarget "CustomToolBarUITests" */ = {
 			isa = XCConfigurationList;
@@ -697,6 +699,7 @@
 				F9A7949F1EBAF93F00D3FF08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
